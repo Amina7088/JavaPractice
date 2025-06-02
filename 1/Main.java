@@ -10,5 +10,6 @@ public class Main {
 
         System.out.println("Set new age and name:");
         System.out.println(person1.getName() + " is now " + person1.getAge() + " years old.");
+        person1.greet();
     }
 } 
