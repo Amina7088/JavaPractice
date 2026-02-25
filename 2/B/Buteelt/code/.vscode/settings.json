@@ -1,0 +1,6 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "java.checkstyle.configuration": "/google_checks.xml"
+}
